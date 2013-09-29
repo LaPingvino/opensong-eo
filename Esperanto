@@ -57,15 +57,15 @@
       <delete caption="Forviŝi">Forviŝi la nunan kanton.</delete>
     </selected_song>
 
-    <songs caption="Songs">Select a song from the list to load it into the song editor.</songs>
+    <songs caption="Kantoj">Elektu kanton el la listo por ŝargi ĝin en la kantoredaktilon.</songs>
 
-    <curr_folder caption="Containing Folder">Shows the folder containing this song (relative to the Active folder)</curr_folder>
+    <curr_folder caption="Enhavanta dosierujo">Montras la enhavantan dosierujon (relative al la aktiva dosierujo)</curr_folder>
 
-    <song_folders caption="Folders">Select a folder from the list to filter the current list of songs.
-      <new>Creates a new folder to store songs in.</new>
-      <delete>Deletes the currently selected song folder. The folder must be empty.</delete>
-      <filter_all caption="All"/>
-      <filter_main caption="Main"/>
+    <song_folders caption="Dosierujoj">Elektu dosierujon el la listo por filtri la nunan liston da kantoj.
+      <new>Krei novan dosierujon por konservi kantojn.</new>
+      <delete>Forviŝas la nun elektitan dosierujon. La dosierujo devas esti malplena.</delete>
+      <filter_all caption="Ĉio"/>
+      <filter_main caption="Ĉefa"/>
     </song_folders>
   </songs_mode>
 
