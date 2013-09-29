@@ -33,28 +33,28 @@
       <export caption="Eksporti">Eksporti ĉiujn kantojn.</export>
       <find caption="Trovi">Serĉas en la teksto de ĉiuj kantoj por certa vorto aŭ frazo.</find>
     </all_songs>
-    <new_song caption="New Song">
-      <create caption="Create">Adds a new song to OpenSong.</create>
-      <import caption="Import">Imports a new song into OpenSong from CCLI SongSelect.</import>
+    <new_song caption="Novan kanton">
+      <create caption="Krei">Aldoni novan kanton al OpenSong.</create>
+      <import caption="Importi">Importi novan kanton en OpenSong el CCLI SongSelect.</import>
     </new_song>
-    <selected_song caption="Selected Song">
-      <save caption="Save">Writes the selected song to disk.</save>
-      <revert caption="Revert">Restores the current song back to the version stored on disk.</revert>
-      <print caption="Print">Prints the current song.</print>
-      <present caption="Present">Presents the current song. If you have made changes to the current song it will be saved.
-        <single_screen caption="Single Screen"/>
-        <dual_screen caption="Dual Screen"/>
-        <preview_dual_screen caption="Preview Dual Screen"/>
+    <selected_song caption="Elektita kanto">
+      <save caption="Konservi">Konservi la elektitan kanton al la disko.</save>
+      <revert caption="Reigi">Reigi la nunan kanton al la versio surdiska.</revert>
+      <print caption="Presi">Presi la nunan kanton.</print>
+      <present caption="Prezenti">Prezenti la nunan kanton. Se vi faris ŝanĝojn en la nuna kanto, ĝi konserviĝos.
+        <single_screen caption="Unuekrane"/>
+        <dual_screen caption="Duekrane"/>
+        <preview_dual_screen caption="Duekrana antaŭvido"/>
       </present>
-      <export caption="Export">Exports the current song.</export>
-      <rename caption="Rename">Renames the current song.</rename>
-      <move caption="Move">Moves the current song into another folder.
-        <where caption="Move '%1' to folder:"/>
+      <export caption="Eksporti">Eksportas la nunan kanton.</export>
+      <rename caption="Renomi">Renomas la nunan kanton.</rename>
+      <move caption="Movi">Movas la nunan kanton al alia dosierujo.
+        <where caption="Movi '%1' al dosierujo:"/>
       </move>
-      <copy caption="Copy">Copies the current song to another folder.
-        <where caption="Copy '%1' to folder:"/>
+      <copy caption="Kopii">Kopias la nunan kanton al alia dosierujo.
+        <where caption="Kopii '%1' al dosierujo:"/>
       </copy>
-      <delete caption="Delete">Deletes the current song.</delete>
+      <delete caption="Forviŝi">Forviŝi la nunan kanton.</delete>
     </selected_song>
 
     <songs caption="Songs">Select a song from the list to load it into the song editor.</songs>
